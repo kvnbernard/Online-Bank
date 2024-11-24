@@ -1,0 +1,1444 @@
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Payment valid !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying a Payment
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Disconnect !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Disconnect !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Disconnect !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Disconnect !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Disconnect !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Waiting for Payment ...
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Waiting for Payment ...
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Disconnect !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Disconnect !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Disconnect !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Disconnect !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Disconnect !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Waiting for Payment ...
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Disconnect !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Waiting for Payment ...
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Disconnect !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Disconnect !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Disconnect !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Disconnect !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Waiting for Payment ...
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Waiting for Payment ...
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Disconnect !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Disconnect !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Waiting for Payment ...
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Waiting for Payment ...
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Disconnect !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Disconnect !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Disconnect !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Disconnect !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Disconnect !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Waiting for Payment ...
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Waiting for Payment ...
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Waiting for Payment ...
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Disconnect !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Waiting for Payment ...
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Waiting for Payment ...
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Payment valid !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Disconnect !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Waiting for Payment ...
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Waiting for Payment ...
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Disconnect !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Disconnect !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Disconnect !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 ihm.ConnectWindow - Connexion error !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Disconnect !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Waiting for Payment ...
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 ihm.ConnectWindow - Disconnect !
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main ihm.ConnectWindow - Starting the Application
+INFO main ihm.ConnectWindow - Waiting for connexion
+WARN main ihm.ConnectWindow - Connexion Error 
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+WARN main app.ConnectWindow - Connexion Error 
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+WARN main app.ConnectWindow - Connexion Error 
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+WARN main app.ConnectWindow - Connexion Error 
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 app.ConnectWindow - Connexion error !
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 app.ConnectWindow - Connexion error !
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 app.ConnectWindow - Connexion error !
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 app.ConnectWindow - Connexion error !
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 app.ConnectWindow - Connexion error !
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 app.ConnectWindow - Connexion error !
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 app.ConnectWindow - Connexion error !
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 app.ConnectWindow - Connexion error !
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 app.ConnectWindow - Connexion error !
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 app.ConnectWindow - Connexion error !
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 app.ConnectWindow - Connexion error !
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 app.ConnectWindow - Connexion error !
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 app.ConnectWindow - Connexion error !
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 app.ConnectWindow - Connexion error !
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 app.ConnectWindow - Connexion error !
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 app.ConnectWindow - Connexion error !
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 app.ConnectWindow - Connexion error !
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 app.ConnectWindow - Connexion error !
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 app.ConnectWindow - Connexion error !
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 app.ConnectWindow - Connexion error !
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 app.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 app.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Disconnect !
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 app.ConnectWindow - Connexion error !
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 app.ConnectWindow - Connexion error !
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 app.ConnectWindow - Connexion error !
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 app.ConnectWindow - Connexion error !
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 app.ConnectWindow - Connexion error !
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 app.ConnectWindow - Connexion error !
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+WARN main app.ConnectWindow - Connexion Error 
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 app.ConnectWindow - Connexion error !
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 app.ConnectWindow - Connexion error !
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 app.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 app.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Disconnect !
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 app.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 app.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 app.ConnectWindow - Payment valid !
+INFO AWT-EventQueue-0 app.ConnectWindow - Error for Payment : error -1 - Erreur de reception
+INFO AWT-EventQueue-0 app.ConnectWindow - Disconnect !
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+WARN main app.ConnectWindow - Connexion Error 
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 app.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 app.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 app.ConnectWindow - Payment valid !
+INFO AWT-EventQueue-0 app.ConnectWindow - Error for Payment : error -1 - Erreur de reception
+INFO AWT-EventQueue-0 app.ConnectWindow - Disconnect !
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+WARN main app.ConnectWindow - Connexion Error 
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 app.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 app.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 app.ConnectWindow - Payment valid !
+INFO AWT-EventQueue-0 app.ConnectWindow - Error for Payment : error -1 - Erreur de reception
+INFO AWT-EventQueue-0 app.ConnectWindow - Disconnect !
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 app.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 app.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 app.ConnectWindow - Payment valid !
+INFO AWT-EventQueue-0 app.ConnectWindow - Error for Payment : error -1 - Erreur de reception
+INFO AWT-EventQueue-0 app.ConnectWindow - Disconnect !
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 app.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 app.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 app.ConnectWindow - Payment valid !
+INFO AWT-EventQueue-0 app.ConnectWindow - Error for Payment : error -1 - Erreur de reception
+INFO AWT-EventQueue-0 app.ConnectWindow - Disconnect !
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 app.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 app.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 app.ConnectWindow - Payment valid !
+INFO AWT-EventQueue-0 app.ConnectWindow - Error for Payment : error -1 - Erreur de reception
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 app.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 app.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 app.ConnectWindow - Payment valid !
+INFO AWT-EventQueue-0 app.ConnectWindow - Error for Payment : error -1 - Erreur de reception
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 app.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 app.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 app.ConnectWindow - Payment valid !
+INFO AWT-EventQueue-0 app.ConnectWindow - Error for Payment : error -1 - Erreur de reception
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 app.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 app.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 app.ConnectWindow - Payment valid !
+INFO AWT-EventQueue-0 app.ConnectWindow - Error for Payment : error -1 - Erreur de reception
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 app.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 app.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 app.ConnectWindow - Payment valid !
+INFO AWT-EventQueue-0 app.ConnectWindow - Error for Payment : error -1 - Erreur de reception
+INFO AWT-EventQueue-0 app.ConnectWindow - Disconnect !
+INFO AWT-EventQueue-0 app.ConnectWindow - Disconnect !
+INFO AWT-EventQueue-0 app.ConnectWindow - Disconnect !
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 app.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 app.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 app.ConnectWindow - Payment valid !
+INFO AWT-EventQueue-0 app.ConnectWindow - Error for Payment : error -1 - Erreur de reception
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 app.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 app.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 app.ConnectWindow - Payment valid !
+INFO AWT-EventQueue-0 app.ConnectWindow - Error for Payment : error -1 - Erreur de reception
+INFO AWT-EventQueue-0 app.ConnectWindow - Disconnect !
+INFO AWT-EventQueue-0 app.ConnectWindow - Disconnect !
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 app.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 app.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 app.ConnectWindow - Payment valid !
+INFO AWT-EventQueue-0 app.ConnectWindow - Error for Payment : error -1 - Erreur de reception
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 app.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 app.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 app.ConnectWindow - Payment valid !
+INFO AWT-EventQueue-0 app.ConnectWindow - Error for Payment : error -1 - Erreur de reception
+INFO AWT-EventQueue-0 app.ConnectWindow - Disconnect !
+INFO AWT-EventQueue-0 app.ConnectWindow - Disconnect !
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 app.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 app.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 app.ConnectWindow - Payment valid !
+INFO AWT-EventQueue-0 app.ConnectWindow - Error for Payment : error -1 - Erreur de reception
+INFO AWT-EventQueue-0 app.ConnectWindow - Disconnect !
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 app.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 app.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 app.ConnectWindow - Payment valid !
+INFO AWT-EventQueue-0 app.ConnectWindow - Error for Payment : error -1 - Erreur de reception
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 app.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 app.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 app.ConnectWindow - Payment valid !
+INFO AWT-EventQueue-0 app.ConnectWindow - Error for Payment : error -1 - Erreur de reception
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 app.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 app.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 app.ConnectWindow - Payment valid !
+INFO AWT-EventQueue-0 app.ConnectWindow - Error for Payment : error -1 - Erreur de reception
+INFO AWT-EventQueue-0 app.ConnectWindow - Disconnect !
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 app.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 app.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 app.ConnectWindow - Payment valid !
+INFO AWT-EventQueue-0 app.ConnectWindow - Error for Payment : error -1 - Erreur de reception
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 app.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 app.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 app.ConnectWindow - Payment valid !
+INFO AWT-EventQueue-0 app.ConnectWindow - Error for Payment : error -1 - Erreur de reception
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 app.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 app.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 app.ConnectWindow - Payment valid !
+INFO AWT-EventQueue-0 app.ConnectWindow - Error for Payment : error -1 - Erreur de reception
+INFO AWT-EventQueue-0 app.ConnectWindow - Disconnect !
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 app.ConnectWindow - Connexion error !
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 app.ConnectWindow - Connexion error !
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 app.ConnectWindow - Connexion error !
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 app.ConnectWindow - Connexion error !
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 app.ConnectWindow - Connexion error !
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 app.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 app.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 app.ConnectWindow - Payment valid !
+INFO AWT-EventQueue-0 app.ConnectWindow - Error for Payment : error -1 - Erreur de reception
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Disconnect !
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 app.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 app.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 app.ConnectWindow - Payment valid !
+INFO AWT-EventQueue-0 app.ConnectWindow - Error for Payment : error -1 - Erreur de reception
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 app.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 app.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 app.ConnectWindow - Payment valid !
+INFO AWT-EventQueue-0 app.ConnectWindow - Error for Payment : error -1 - Erreur de reception
+INFO AWT-EventQueue-0 app.ConnectWindow - Disconnect !
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 app.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 app.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 app.ConnectWindow - Payment valid !
+INFO AWT-EventQueue-0 app.ConnectWindow - Error for Payment : error -1 - Erreur de reception
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 app.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 app.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 app.ConnectWindow - Payment valid !
+INFO AWT-EventQueue-0 app.ConnectWindow - Error for Payment : error -1 - Erreur de reception
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 app.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 app.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 app.ConnectWindow - Payment valid !
+INFO AWT-EventQueue-0 app.ConnectWindow - Error for Payment : error -1 - Erreur de reception
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+WARN AWT-EventQueue-0 app.ConnectWindow - Connexion error !
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 app.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 app.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 app.ConnectWindow - Payment valid !
+INFO AWT-EventQueue-0 app.ConnectWindow - Error for Payment : error -1 - Erreur de reception
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 app.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 app.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 app.ConnectWindow - Payment valid !
+INFO AWT-EventQueue-0 app.ConnectWindow - Error for Payment : error -1 - Erreur de reception
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 app.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 app.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 app.ConnectWindow - Payment valid !
+INFO AWT-EventQueue-0 app.ConnectWindow - Error for Payment : error -1 - Erreur de reception
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 app.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 app.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 app.ConnectWindow - Payment valid !
+INFO AWT-EventQueue-0 app.ConnectWindow - Error for Payment : error -1 - Erreur de reception
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+WARN main app.ConnectWindow - Connexion Error 
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 app.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 app.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 app.ConnectWindow - Payment valid !
+INFO AWT-EventQueue-0 app.ConnectWindow - Error for Payment : error -1 - Erreur de reception
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 app.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 app.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 app.ConnectWindow - Payment valid !
+INFO AWT-EventQueue-0 app.ConnectWindow - Disconnect !
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 app.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 app.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 app.ConnectWindow - Payment valid !
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 app.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 app.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 app.ConnectWindow - Payment valid !
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 app.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 app.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 app.ConnectWindow - Payment valid !
+INFO AWT-EventQueue-0 app.ConnectWindow - Disconnect !
+INFO main app.ConnectWindow - Starting the Application
+INFO main app.ConnectWindow - Waiting for connexion
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying connexion ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Connexion accepted !
+INFO AWT-EventQueue-0 app.ConnectWindow - Terminal opened
+INFO AWT-EventQueue-0 app.ConnectWindow - Waiting for Payment ...
+INFO AWT-EventQueue-0 app.ConnectWindow - Trying a Payment
+INFO AWT-EventQueue-0 app.ConnectWindow - Payment valid !
+INFO AWT-EventQueue-0 app.ConnectWindow - Disconnect !
