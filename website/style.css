@@ -1,0 +1,216 @@
+h1{
+	text-align: center;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+  font-size: 3em;
+}
+header{
+  border-top: 1px solid grey;
+  border-bottom: 1px solid grey;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+/* Style nav */
+
+#soustitre{
+  text-align: center;
+  padding-top: 1em;
+}
+
+nav{
+  border:1px solid grey;
+  margin-right: 1em;
+  margin-left: 1em;
+}
+
+nav a{
+  color: green;
+}
+
+nav a:hover{
+  color: lightgreen;
+}
+
+#indexsoustitre{
+  font-size: 2em;
+}
+
+#indexformcomptecreation{
+  border: 1px solid grey;
+  padding: 1em;
+  margin: 1em;
+}
+
+
+/* Style formulaire de connexion */
+#connectionform{
+
+  padding-top: 0.5em;
+}
+
+#connectionform p{
+	padding-right: 1em;
+
+}
+
+#explications{
+  background-color: green;
+  color: white;
+  padding-bottom: 1em;
+  margin-bottom: 2em;
+}
+
+#explications h4{
+	text-align: center;
+}
+
+#explications h3{
+	text-align: center;
+	margin-top: 1em;
+  padding-top: 1em;
+	margin-bottom: 1em;
+}
+
+#accountcreationindex{
+
+}
+
+#accountcreation{
+  padding: 2em;
+}
+
+#indexdesc{
+	text-align: justify;
+}
+
+.container-fluid .btn {
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  background-color: green;
+}
+
+.container-fluid #imgtext {
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  font-size: 50px;
+  color: white;
+  text-align: center;
+  font-weight: 300;
+}
+
+/* Style formulaire creation compte*/
+
+
+
+/* Style page principale connexion */
+
+#montantcc {
+  text-align: center;
+  margin-right: 2em;
+  margin-left: 2em;
+  border: 3px solid green;
+  border-radius: 25px 25px;
+}
+
+#montantce h2{
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
+
+#CarteDesc{
+  padding-top: 1em;
+  font-size: 2em;
+  padding-bottom: 0.5em;
+}
+
+#CarteBleue{
+background: rgb(157,238,169);
+background: linear-gradient(148deg, rgba(157,238,169,1) 26%, rgba(188,255,186,0.805742279822085) 65%, rgba(157,238,169,1) 92%);
+  border-radius: 10px 10px ;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  box-shadow: 3px 3px 3px grey;
+  border: 1px solid grey;
+
+}
+
+#CarteBleue p{
+  font-size:1.5em;
+}
+
+/* style historique */
+
+#formnbelemcc, #formnbelemce{
+  text-align: center;
+}
+
+/* style virement*/
+
+#selvirement a {
+  text-align: center;
+}
+
+#vervirement{
+  display: block;
+  background-color: lightgreen;
+  padding: 2em;
+  margin: 1em; 
+  border-radius: 50px 50px ;
+  color: black;
+}
+#vervirement:hover{
+  box-shadow: 5px 5px 10px  grey;
+}
+
+#virementdiv{
+  margin: 1em;
+  border: 1px solid black;
+  padding: 1em;
+}
+
+/* Style gestionCompte */
+#gestioncomptediv{
+  margin: 1em;
+  border: 1px solid black;
+}
+
+
+ #gestioncomptesoustitre{
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 1em;
+ }
+
+ /* Style page informations */
+
+#infopersonelles{
+  border : 1px solid grey;
+  margin: 1em;
+  padding: 1em;
+}
+
+/* Style Footer */
+footer{
+  background-color: green;
+  padding-bottom: 2em;
+}
+
+footer h2{
+  text-align: center;
+}
+
+footer p{
+  text-align: center;
+  padding-top: 4em;
+}
